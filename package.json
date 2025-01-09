@@ -1,0 +1,40 @@
+{
+  "name": "packavif",
+  "version": "1.0.0",
+  "description": "Convert images to AVIF format with optimized compression",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzadNishad/PackAVIF.git"
+  },
+  "keywords": [
+    "[\"avif\"",
+    "\"image\"",
+    "\"compression\"",
+    "\"converter\"",
+    "\"optimization\"]"
+  ],
+  "author": "azad_nishad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AzadNishad/PackAVIF/issues"
+  },
+  "homepage": "https://github.com/AzadNishad/PackAVIF",
+  "dependencies": {
+    "glob": "^11.0.0",
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "@types/node": "^22.10.5",
+    "@types/sharp": "^0.31.1",
+    "eslint": "^9.17.0",
+    "eslint-plugin-react": "^7.37.3",
+    "globals": "^15.14.0",
+    "typescript": "^5.7.3",
+    "typescript-eslint": "^8.19.1"
+  }
+}
