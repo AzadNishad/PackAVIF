@@ -1,0 +1,18 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "imgbot",
+    "origin"
+  ],
+  "parent": {
+    "dev": null,
+    "imgbot": "dev",
+    "origin": "dev"
+  },
+  "order": [
+    "dev",
+    "imgbot",
+    "origin"
+  ]
+}
